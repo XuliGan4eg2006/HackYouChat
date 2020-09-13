@@ -8,12 +8,6 @@ client = TelegramClient('anon', api_id, api_hash)
 
 chid = input("Enter chat id/@ to hack! : ")
 
-def prow(chid):
-	if chid != "@":
-		pass
-	else:
-		chid = "@" + str(chid)
-		return chid
 
 async def main():
 	megas = await client.send_message(chid, '`Hacking...`')
