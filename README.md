@@ -1,0 +1,2 @@
+# HackYouChat
+Script for "Hack"
