@@ -1,5 +1,5 @@
 # HackYouChat
-Script for "Hack"
+Script for "Hack" chat in Telegram
 # Run 
 pip3 install telethon 
 <br>
